@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.layout {
+width: 200px;
+height: 200px;
+background: #999;
+}
