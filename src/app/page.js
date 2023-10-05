@@ -2,7 +2,6 @@
 
 import Link from 'next/link';
 import Button from './buttons/button';
-// import WebcamCapture from '@/app/about/camera/page.js';
 import React, { useState } from 'react';
 import Webcam from 'react-webcam';
 
