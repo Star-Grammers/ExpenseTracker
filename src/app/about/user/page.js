@@ -1,5 +1,7 @@
+import Back from '../back/page';
 import { blueButterfly } from '../../assets';
 import Image from 'next/image';
+
 export default function page() {
 	return (
 		<div>
@@ -10,6 +12,7 @@ export default function page() {
 				height={250}
 				alt='blue-butterfly'
 			/>
+			<Back />
 		</div>
 	);
 }
